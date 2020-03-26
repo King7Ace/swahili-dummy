@@ -1,0 +1,16 @@
+{
+  "name": "swahili-dummy",
+  "version": "1.0.0",
+  "description": "This package helps you easily generate dummy swahili text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Swahili",
+    "Dummy",
+    "text"
+  ],
+  "author": "F King",
+  "license": "ISC"
+}
